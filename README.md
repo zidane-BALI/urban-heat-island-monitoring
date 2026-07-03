@@ -44,7 +44,7 @@ ESP32 source code
 Web application source code
 Database implementation
 Electronic schematics and wiring
-3D enclosure design files (STL/CAD)
+3D enclosure design files (STL)
 Documentation and project report
 System architecture and communication diagrams
 
